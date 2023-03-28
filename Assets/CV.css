@@ -236,9 +236,9 @@ display: block;
     width: 550px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 8000px) {
 .container {
-  margin: 10px;
+  margin: 8px;
     grid-template-columns: repeat(1,1fr);
     
     
