@@ -274,8 +274,16 @@ display: block;
         }
         
         .detes {
-            flex-direction: column;
+            display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 380px;
+    list-style: none;
         }
+        
+        #bottomsup {
+    padding-bottom: 8px;
+}
         
         
 }
