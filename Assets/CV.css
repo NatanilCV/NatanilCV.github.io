@@ -237,6 +237,7 @@ display: block;
     justify-content: space-between;
     max-width: 380px;
     list-style: none;
+    pointer-events: none;
 }
 #sizer {
     font-size: 17px;
@@ -279,6 +280,7 @@ display: block;
     justify-content: space-between;
     max-width: 380px;
     list-style: none;
+            pointer-events: none;
         }
         
         #bottomsup {
