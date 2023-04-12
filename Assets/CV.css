@@ -260,7 +260,7 @@ display: block;
 .container {
   margin: 10px;
     grid-template-columns: repeat(1,1fr);
-    
+    Zoom: 150%;
     
 }
 
